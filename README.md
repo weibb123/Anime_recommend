@@ -8,3 +8,9 @@ Find similar animes using collaborative recommendation approaches(Singular Value
 **Actknowledgement**
 
 Credit to https://www.kaggle.com/datasets/hernan4444/anime-recommendation-database-2020 for providing the dataset!
+
+Credit to https://towardsdatascience.com/recommendation-system-matrix-factorization-svd-explained-c9a50d93e488 for useful explaination of matrix-factorization
+
+Credit to https://towardsdatascience.com/beginners-guide-to-creating-an-svd-recommender-system-1fd7326d1f65 for another explaination of SVD recommendation system!
+
+
