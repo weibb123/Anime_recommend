@@ -1,4 +1,5 @@
 # Anime_recommendation
+As an anime fan, I've been watching anime through my childhood. Using Machine Learning, we can implement a recommender to find similar animes based on users taste.
 
 Find similar animes using collaborative recommendation approaches(Singular Valued Decomposition and Cosine Similarity)
 
